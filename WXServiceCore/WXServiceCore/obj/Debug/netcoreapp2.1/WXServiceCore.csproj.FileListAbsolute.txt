@@ -1,0 +1,3 @@
+D:\wxcore\WXServiceCore\WXServiceCore\obj\Debug\netcoreapp2.1\WXServiceCore.csproj.CoreCompileInputs.cache
+D:\wxcore\WXServiceCore\WXServiceCore\obj\Debug\netcoreapp2.1\WXServiceCore.AssemblyInfoInputs.cache
+D:\wxcore\WXServiceCore\WXServiceCore\obj\Debug\netcoreapp2.1\WXServiceCore.AssemblyInfo.cs
